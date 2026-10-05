@@ -121,7 +121,7 @@ with col4:
 def call_ai(prompt: str) -> str:
     try:
         response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-20b",
             messages=[
                 {"role": "system", "content": f"You are StudySaathi, a friendly and patient AI tutor for school and college students. {lang_instruction} Keep answers clear, structured, and encouraging. Use simple words."},
                 {"role": "user", "content": prompt}
