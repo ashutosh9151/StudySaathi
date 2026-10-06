@@ -85,14 +85,8 @@ Open http://localhost:8501 in your browser.
 
 ## 🌐 Live Demo
 
-> Add your Streamlit Cloud link here after deployment  
-> Example: https://studysaathi.streamlit.app
 
----
-
-## 📹 Demo Video
-
-> Add your 2-3 minute demo video link here (YouTube unlisted)
+> live link: https://studysaathi-krt2jntj2w7pxrbwpprbg9.streamlit.app 
 
 ---
 
