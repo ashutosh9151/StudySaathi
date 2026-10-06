@@ -38,7 +38,7 @@ Supports **English, Hindi, and Hinglish**.
 ## 🛠️ Tech Stack
 
 - **Frontend + Backend:** Streamlit (Python)
-- **AI Model:** Llama 3.3 70B via Groq API (fast + free tier)
+- **AI Model:** GPT-OSS 20B via Groq API
 - **Deployment:** Streamlit Community Cloud
 
 ---
@@ -68,7 +68,6 @@ pip install -r requirements.txt
 ```
 
 ### 4. Add Groq API Key
-- Get a free key from [https://console.groq.com](https://console.groq.com)
 - Create a `.env` file:
 ```
 GROQ_API_KEY=your_key_here
